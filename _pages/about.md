@@ -63,7 +63,7 @@ Throughout my academic and professional journey, I have explored various domains
 
 
 # 📖 Educations
-- *2022.09 - 2025.04*, Pursuing a Master of Science in **Computer Science and Technology**, at the School of Computer Science and Technology, **Shanghai Jiao Tong University**.
+- *2022.09 - 2025.03*, Pursuing a Master of Science in **Computer Science and Technology**, at the School of Computer Science and Technology, **Shanghai Jiao Tong University**.
 - *2018.08 - 2022.07*, Earned a Bachelor of Science in **Computer Science and Technology** from the School of Computer Science and Technology, **Xi'an Jiao Tong University**.
 
 
