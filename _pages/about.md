@@ -42,7 +42,7 @@ Throughout my academic and professional journey, I have explored various domains
 
 <div class='paper-box'>
 <div class='paper-box-image'>
-<div><div class="badge">CAD/Graphics 2023</div><img src='images/cad2023.png' alt="sym" width="100%" height="50%"></div></div><div class='paper-box-text' markdown="1">
+<div><div class="badge">CAD/Graphics 2023</div><img src='images/cad2023.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
 
 [Image Fusion Based on Feature Decoupling and Proportion Preserving](https://link.springer.com/chapter/10.1007/978-981-99-9666-7_5)
 
