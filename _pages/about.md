@@ -22,7 +22,7 @@ My name is Fang Bin, and I specialize in Computer Science and Technology. I purs
 Throughout my academic and professional journey, I have explored various domains, including traditional machine learning, multimodal image fusion, AI for Science (AI4Science), deep security (encompassing adversarial attacks, data poisoning, membership inference attacks and defenses, and data privacy protection), reinforcement learning, and AI-generated content (AIGC). My primary focus is on deep security, and I am currently an emerging researcher in the field of reinforcement learning.
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉🎉 Joined Tencent in Shenzhen. 
+- *2025.03*: &nbsp;🎉🎉 Joined Tencent in ShenZhen. 
 
 # 📝 Publications 
 
