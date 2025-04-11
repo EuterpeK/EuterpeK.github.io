@@ -57,14 +57,14 @@ Throughout my academic and professional journey, I have explored various domains
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2025.03* Awarded the title of "Outstanding Graduate" by Shanghai Jiao Tong University, recognizing exceptional academic achievements and comprehensive capabilities.
-- *2024.12* Received the National Graduate Scholarship, honoring outstanding performance in academic research.
-- *2022.10* Secured 4th place as a team in the Open Graph Benchmark - Large Scale Challenge Competition & NeurIPS 2022, demonstrating exceptional teamwork and technical prowess on a global st·age.
+- *2025.03* Awarded the title of **"Outstanding Graduate"** by Shanghai Jiao Tong University, recognizing exceptional academic achievements and comprehensive capabilities.
+- *2024.12* Received the **National Graduate Scholarship**, honoring outstanding performance in academic research.
+- *2022.10* Secured **4th** place as a team in the **Open Graph Benchmark - Large Scale Challenge Competition & NeurIPS 2022**, demonstrating exceptional teamwork and technical prowess on a global stage.
 
 
 # 📖 Educations
-- *2022.09 - 2025.04*, Pursuing a Master of Science in Computer Science and Technology, at the School of Computer Science and Technology, Shanghai Jiao Tong University.
-- *2018.08 - 2022.07*, Earned a Bachelor of Science in Computer Science and Technology from the School of Computer Science and Technology, Xi'an Jiao Tong University.
+- *2022.09 - 2025.04*, Pursuing a Master of Science in **Computer Science and Technology**, at the School of Computer Science and Technology, **Shanghai Jiao Tong University**.
+- *2018.08 - 2022.07*, Earned a Bachelor of Science in **Computer Science and Technology** from the School of Computer Science and Technology, **Xi'an Jiao Tong University**.
 
 
 <!-- # 💬 Invited Talks
