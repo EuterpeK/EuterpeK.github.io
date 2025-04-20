@@ -72,7 +72,7 @@ Throughout my academic and professional journey, I have explored various domains
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2022.06 - 2024.09*, [Tencent](https://careers.tencent.com/home.html), Technical Research, ShenZhen.
+- *2024.06 - 2024.09*, [Tencent](https://careers.tencent.com/home.html), Technical Research, ShenZhen.
 - *2024.02 - 2024.06*, [CATL](https://talent.catl.com/social-recruitment/catlhr/96144/), Technical Research, NingDe.
 - *2022.03 - 2024.02*, [Tencent](https://careers.tencent.com/home.html), Technical Research, ShangHai.
 - *2021.07 - 2021.10*, [Huawei](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html), Software Development, Xi'an.
